@@ -10,7 +10,7 @@
 
 ## KaiGen: Kaiser Generative Max for Live plugins
 
-[KaiGen[(https://jeffkaiser.com/product/kaigen-interactive-and-generative-software-by-jeff-kaiser-max-for-live-plugins-and-max-projects/)
+[KaiGen](https://jeffkaiser.com/product/kaigen-interactive-and-generative-software-by-jeff-kaiser-max-for-live-plugins-and-max-projects/)
 
 ## KaiserLooper
 
