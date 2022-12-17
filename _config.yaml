@@ -3,3 +3,5 @@ description: Musician, technologist, and scholar, Jeff Kaiser is an active perfo
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+github:
+  is_project_page: false
