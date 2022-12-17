@@ -36,4 +36,4 @@
 
 [LinkedIn](https://www.linkedin.com/in/jkais/)
 
-[Twitter](https://twitter.com/jkais)
+[Twitter](https://twitter.com/jkais){:target="_blank"}
