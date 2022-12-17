@@ -1,39 +1,39 @@
 # Jeff Kaiser Links
 
-[JeffKaiser.com](https://jeffkaiser.com/)
+[JeffKaiser.com](https://jeffkaiser.com/){:target="_blank"}
 
 ## Music/Video
 
-[YouTube.com/jeffkaiser](https://www.youtube.com/jeffkaiser?sub_confirmation=1)
+[YouTube.com/jeffkaiser](https://www.youtube.com/jeffkaiser?sub_confirmation=1){:target="_blank"}
 
-[Bandcamp](https://music.jeffkaiser.com/)
+[Bandcamp](https://music.jeffkaiser.com/){:target="_blank"}
 
 ## KaiGen: Kaiser Generative Max for Live plugins
 
-[KaiGen](https://jeffkaiser.com/product/kaigen-interactive-and-generative-software-by-jeff-kaiser-max-for-live-plugins-and-max-projects/)
+[KaiGen](https://jeffkaiser.com/product/kaigen-interactive-and-generative-software-by-jeff-kaiser-max-for-live-plugins-and-max-projects/){:target="_blank"}
 
 ## KaiserLooper
 
-[KaiserLooper](https://jeffkaiser.com/product/kaiserlooper-live-looping-software-for-max/)
+[KaiserLooper](https://jeffkaiser.com/product/kaiserlooper-live-looping-software-for-max/){:target="_blank"}
 
 ## All Max/Max for Live Software
 
-[Max for Live, Max, KaiGen](https://jeffkaiser.com/max/)
+[Max for Live, Max, KaiGen](https://jeffkaiser.com/max/){:target="_blank"}
 
 ## Various
 
-[Why Reaper: Music Technology Resources and Pedagogy](https://whyreaper.com/)
+[Why Reaper: Music Technology Resources and Pedagogy](https://whyreaper.com/){:target="_blank"}
 
-[MOXsonic Festival](https://moxsonic.org/)
+[MOXsonic Festival](https://moxsonic.org/){:target="_blank"}
 
-[pfMENTUM Records](https://jeffkaiser.com/pfmentum/)
+[pfMENTUM Records](https://jeffkaiser.com/pfmentum/){:target="_blank"}
 
 ## Social Media
 
-[Facebook](https://www.facebook.com/pfmentum)
+[Facebook](https://www.facebook.com/pfmentum){:target="_blank"}
 
-[Instagram](https://www.instagram.com/jeffkaiser/)
+[Instagram](https://www.instagram.com/jeffkaiser/){:target="_blank"}
 
-[LinkedIn](https://www.linkedin.com/in/jkais/)
+[LinkedIn](https://www.linkedin.com/in/jkais/){:target="_blank"}
 
 [Twitter](https://twitter.com/jkais){:target="_blank"}
