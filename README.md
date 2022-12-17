@@ -1,4 +1,6 @@
-# Jeff Kaiser Links
+# Jeff Kaiser
+
+## General Links
 
 [JeffKaiser.com](https://jeffkaiser.com/){:target="_blank"}
 
@@ -22,7 +24,7 @@
 
 [Max for Live, Max, KaiGen](https://jeffkaiser.com/max/){:target="_blank"}
 
-## Various
+## Various Projects
 
 [Why Reaper: Music Technology Resources and Pedagogy](https://whyreaper.com/){:target="_blank"}
 
