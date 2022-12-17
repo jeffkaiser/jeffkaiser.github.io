@@ -1,18 +1,36 @@
-# Jeff Kaiser
+# Jeff Kaiser Links
+
+[JeffKaiser.com](https://jeffkaiser.com/)
+
+## Music/Video
 
 [YouTube.com/jeffkaiser](https://www.youtube.com/jeffkaiser?sub_confirmation=1)
 
-[JeffKaiser.com](https://jeffkaiser.com/)
+[Bandcamp](https://music.jeffkaiser.com/)
+
+## KaiGen: Kaiser Generative Max for Live plugins
+
+[KaiGen[(https://jeffkaiser.com/product/kaigen-interactive-and-generative-software-by-jeff-kaiser-max-for-live-plugins-and-max-projects/)
+
+## KaiserLooper
+
+[KaiserLooper](https://jeffkaiser.com/product/kaiserlooper-live-looping-software-for-max/)
+
+## All Max/Max for Live Software
+
+[Max for Live, Max, KaiGen](https://jeffkaiser.com/max/)
+
+## Various
 
 [Why Reaper: Music Technology Resources and Pedagogy](https://whyreaper.com/)
 
 [MOXsonic Festival](https://moxsonic.org/)
 
-[Bandcamp](https://music.jeffkaiser.com/)
+[pfMENTUM Records](https://jeffkaiser.com/pfmentum/)
+
+## Social Media
 
 [Facebook](https://www.facebook.com/pfmentum)
-
-[pfMENTUM Records](https://jeffkaiser.com/pfmentum/)
 
 [Instagram](https://www.instagram.com/jeffkaiser/)
 
