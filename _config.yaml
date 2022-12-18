@@ -2,6 +2,6 @@ title: Jeff Kaiser
 description: Jeff Kaiser has a wide-ranging background as an interdisciplinary creative practitioner who authors, develops, and uses his own software and hardware.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
+theme: jekyll-theme-slate
 github:
   is_project_page: false
