@@ -41,3 +41,5 @@
 [LinkedIn](https://www.linkedin.com/in/jkais/){:target="_blank"}
 
 [Twitter](https://twitter.com/jkais){:target="_blank"}
+
+<a rel="me" href="https://mastodon.social/@jeffkaiser">Mastodon</a>
