@@ -42,4 +42,4 @@
 
 [Twitter](https://twitter.com/jkais){:target="_blank"}
 
-<a rel="me" href="https://musician.social/@jeffkaiser" target="_blank">Mastodon</a>
+<a rel="me" href="https://musician.social/@jeffkaiser">Mastodon</a>{:target="_blank"}
