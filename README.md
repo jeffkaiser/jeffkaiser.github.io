@@ -8,6 +8,8 @@
 
 ## Music/Video
 
+Please use the following link to subscribe to my YouTube Channel:
+
 [YouTube.com/jeffkaiser](https://www.youtube.com/jeffkaiser?sub_confirmation=1){:target="_blank"}
 
 [Bandcamp](https://music.jeffkaiser.com/){:target="_blank"}
@@ -41,5 +43,3 @@
 [LinkedIn](https://www.linkedin.com/in/jkais/){:target="_blank"}
 
 [Twitter](https://twitter.com/jkais){:target="_blank"}
-
-<a rel="me" href="https://musician.social/@jeffkaiser" target="_blank">Mastodon</a>
